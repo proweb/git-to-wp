@@ -1,4 +1,8 @@
+---
+title: Название записи
+---
+
 # One more post 
 
 
-Hello
+Hello one more time
